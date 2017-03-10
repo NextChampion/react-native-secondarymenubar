@@ -1,3 +1,3 @@
 # react-native-secondarymenubar
-Usage
-You can install the latest beta with npm i react-native-secondarymenubar
+<h3> Usage </h3>
+<p>You can install the latest beta with <b> npm i react-native-secondarymenubar</b></p>
