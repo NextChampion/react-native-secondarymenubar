@@ -192,5 +192,3 @@ AppRegistry.registerComponent('SecondaryMenuBar', () => SecondaryMenuBarDemo);
 Check  
 <strong>SecondaryMenuBarExample</strong>
  folder
- #auther
- -----
