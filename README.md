@@ -7,4 +7,4 @@ You can install the latest beta with
 <h1>Getting start</h1>
 `npm i react-native-secondarymenubar`
 <h1>Example</h1>
-Check  ***SecondaryMenuBarExample*** folder
+Check  **SecondaryMenuBarExample** folder
