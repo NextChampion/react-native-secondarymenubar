@@ -1,7 +1,10 @@
-# react-native-secondarymenubar
-<h3> Usage </h3>
-<p>
-You can install the latest beta with </br> 
-<strong>npm i react-native-secondarymenubar</strong></br> 
-</p>
-![](https://github.com/NextChampion/react-native-secondarymenubar/blob/master/images/Untitled5.gif)  
+##react-native-secondarymenubar 
+
+You can install the latest beta with 
+`npm i react-native-secondarymenubar`
+##Preview
+![](https://github.com/NextChampion/react-native-secondarymenubar/blob/master/images/Untitled5.gif)
+##Getting start
+`npm i react-native-secondarymenubar`
+##Example
+Check  ***SecondaryMenuBarExample*** folder
