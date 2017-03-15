@@ -6,7 +6,7 @@ npm i react-native-secondarymenubar
 </pre>
 </p>
 <h1>Preview</h1>
-![](https://github.com/NextChampion/react-native-secondarymenubar/blob/master/images/Untitled5.gif)
+<img src="https://github.com/NextChampion/react-native-secondarymenubar/blob/master/images/Untitled5.gif"/>
 <h1>Getting start</h1>
 <p>
 start with 
