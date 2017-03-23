@@ -2,7 +2,7 @@
 <p>
 You can install the latest beta with 
 <pre>
-npm i react-native-secondarymenubar
+npm i react-native-secondarymenubar --save
 </pre>
 </p>
 <h1>Preview</h1>
