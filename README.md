@@ -10,7 +10,7 @@ npm i react-native-secondarymenubar --save
 <h1>Getting start</h1>
 <p>
 start with 
-<pre>npm i react-native-secondarymenubar</pre>
+<pre>npm i react-native-secondarymenubar --save</pre>
 </p>
 <h1>Usage</h1>
 <pre>
